@@ -3,12 +3,12 @@
   "notes": "Button Color Change",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NjVCakRIVll5SkpEWFJUUTFsMWp2MWpsWUYzMnRMdGxiS3pBYjgzc2UrZXZrTDJrdWdNTWZxS2NML2RBVkxKdkkyU0JSOXZPT3IxejUyYUxEZ2lyYXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0MDI0NTg5CWZpbGU6U29pa2EgTW9ja2luZ2pheV8wLjEuMV9hbWQ2NC5kZWIKRHhTclE1ajZoVWNLcTlmSkMzRmJibU1BQ0lGaytGK2tvM2YzenIwcFFTTVlDWW9UWTlCTkFqKzJZcEJMZ1Ewb1RVc3RlYi9aR1VYZVpkZDBSeDZJQXc9PQo=",
-      "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/Soika%20Mockingjay_0.1.1_amd64.deb"
+      "signature": "",
+      "url": ""
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NjFSdUpaeW91OEt4RUNVZ29BR3pMSDZwTHdtQW1rTm9pVlF4WEdMQ2cvRmhTVloxV25sRFNMQXlsVkhCYUxCNTJuamYrNTlJS1lpZmN5QXBOeUhDRlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0MDMyNzg0CWZpbGU6U29pa2EgTW9ja2luZ2pheV8wLjEuMV94NjQtc2V0dXAuZXhlCjl2Q2M0dWpqRHMxalRrR3hBT283RG9lSEl4MU5lZ0tkZkcwTlpzcjdSVll1ak1CLzVsUjlrVkM2cEpQSUprYUtEWEN4SXltSWc0TFJnLzZzdTNuakFRPT0K",
-      "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/Soika%20Mockingjay_0.1.1_x64-setup.exe"
+      "signature": "",
+      "url": ""
     }
   }
 }
