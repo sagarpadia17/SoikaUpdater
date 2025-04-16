@@ -3,8 +3,8 @@
   "notes": "Bugs Fixed",
   "platforms": {
     "linux-x86_64": {
-      "signature": "",
-      "url": ""
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NjQzSVdFbjFlWUJINHdpR1B2YWtBMXdFdTVSeXAwSUNaQ1RYaUI5WnN5dDN4V0RrbTEyQVhjeWw1U1JsVytCUW9CRml5S2ZUc3VYSTA3QndRYnBpSFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0ODAyOTMzCWZpbGU6U29pa2EtTW9ja2luZ2pheV8xLjEuMF9hbWQ2NC5kZWIKdTF3dDNCOUhxQzViRlI1b2EwRGJHMFkzWnlzNGhqKzAxLy93MUJjUGZUa2c0WHdVZmNwcTRMNThFa0JMNDhjTmtxclY2RDJ0a1dIVkdGVVVmTmNxQ2c9PQo=",
+      "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/Soika-Mockingjay_1.1.0_amd64.deb"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NjM2N2NaLzYza3JmUGZVL1c3NlN1WGR3YkVWUFpQdVRCQVZjeXlXTFVubkdmS3Ywc2R0RVFQWHF4aUxkdmYvVUJxVjlEVWpxdk4wd095cmVDS3h2a1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0Nzg2NDA0CWZpbGU6U29pa2EtTW9ja2luZ2pheV8xLjEuMF94NjQtc2V0dXAuZXhlCkkxT1FVRDRRbVFnQ2ROb2puaHRUeTU5QWdRZGgrNmlRL2UvUDV6RWdPbmw1d1EyejdjTlVUQzI2bnJ0YitoQXhRZUlYb3dvMmhsVTl4bmtYR013RUN3PT0K",
