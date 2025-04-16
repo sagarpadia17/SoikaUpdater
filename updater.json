@@ -4,7 +4,7 @@
   "platforms": {
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NjlHSnkweWJHMVRUcUdMSkhKczJIM1VDbWlyd3lKZFNiTWZEbjdzNGMzUU5WalMwQUtaV1NtcTJ5OUI2dFNwUTk3TmVvdVRWY2xTRXY2Vk5WOEFtREFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0Nzg1NjkzCWZpbGU6U29pa2EtTW9ja2luZ2pheV8xLjEuMF9hbWQ2NC5kZWIKaFpLdGhVNFkvU2xadkIzbmFmYS9lVDduUEpXUUxWd0lWNDA5dmU1ZitsMWx0SHhwdEtXNkhBbzNuNkJ3S21HaG40UlpTbU4wU1JVNGM4K3lLUStpREE9PQo=",
-      "url": ""
+      "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/Soika-Mockingjay_1.1.0_amd64.deb"
     },
     "windows-x86_64": {
       "signature": "",
