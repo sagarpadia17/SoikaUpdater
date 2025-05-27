@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "notes": "Bugs Fixed",
+  "version": "1.2.0",
+  "notes": "Added Video Call",
   "platforms": {
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2Ni9mL2daWkZWdFhPQXVzQ1lNcFloK1B3eENpajNyanNzMWFtU1FUTU1oVEhoK1N4ZGZjNFdQQUxhTG9LMmdQQi82QmdEM2xVbDRGeXpvOWVEbWFLWlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1MzE5NTQ4CWZpbGU6c29pa2EtbW9ja2luZ2pheV8xLjEuMF9hbWQ2NC5kZWIKVVQ2dGVyUlJkUGRDMWZHMDdzNWFkbzhLOWVYNzJrSXVmU0hQYTlaMHA3cU9ia2JERnVMZ2pnYkZYQXBQcVZORklPSjdTb2JmQnU5ZFZSZmFrYzBvQlE9PQo=",
