@@ -7,8 +7,8 @@
       "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_1.1.0_amd64.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NjRvbVBDTlB4RnBsMFRHaldrczNLYUV0YWV5eFZXc2o4OVpyVGZiVkxKdFlkaFU1Z0pydU10MGlOVmlqVFFZRkR4ZWZPbkY5dHBsNndTWlE0MHZEc2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1MzE4NjEyCWZpbGU6c29pa2EtbW9ja2luZ2pheV8xLjEuMF94NjQtc2V0dXAuZXhlCjdWWHg0cFlnSzZha2ZDZGJXOXVYQ0N1M0lMTDIwNGdmTmhVcjB0SnUydTc0NmV4Q203NUQ3cTVZODBUS0Q3S0VIazdJeVVOeDZDcEJkdW5mQzdZa0NnPT0K",
-      "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_1.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NnpBUE91SW1XZ3NrTEhvTlJoMFRxM1dVeC83eVhSOHpWMnNGbGFKUGZMcTFKMTh2RU44a25FL3JQR2xaTHZ2VVVaYTF3VFU0ZmJ0akJWRm4vRTgwSXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4MzU4ODczCWZpbGU6c29pa2EtbW9ja2luZ2pheV8xLjIuMF94NjQtc2V0dXAuZXhlClRjUFRoeHAyOUN0ZnhFczVkZUo0b2c2TUxRS0V1U05ycUdZOE1KYm40STloV0NQaTNiZEdLVDhGZk9vaWoySjlERFBxL3VhRkRDd0M3dHYzblZldURnPT0K",
+      "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_1.2.0_x64-setup.exe"
     },
      "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NjhwMTMvY3gxSTFpUmdlZ0tWYUNpenBrRGlpVFNEQ3hsRC9rV2V3TDk2TTIzbVFCeFRwTzB3M3gzSmZFNmdkZEl3bU5kT0J3bmxTRXVRNVFYcFpXWkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0OTg2ODQ3CWZpbGU6c29pa2EtbW9ja2luZ2pheS5hcHAudGFyLmd6Cmt6RXIvS0dKZWZ1YWpGYjUwYkJUdCtMQktnYThZQU04R3JGNEhvZFk0YVNkY0k2VkEwc2toZjhEbmgyOVIyc0VuQ1ViZVNRai9uTlNBMTdlMWIvZkN3PT0K",
