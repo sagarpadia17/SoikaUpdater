@@ -3,7 +3,7 @@
   "notes": "Changed Voice Call",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NjVJSjRwT3BEZjRpell1eFoyZHVBTlpWNitTSmx4OWFDZzE5WXNlaElMNU1KSTZTcGJkQllDL2lTYTRGNlUxMWorbXBSRUNUVmdKTVFLaHBJeVIyK3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwOTM4NDYxCWZpbGU6c29pa2EtbW9ja2luZ2pheV8xLjIuMV9hbWQ2NC5kZWIKL0p5QytLVFlkeGV2S3JMa1VPbThEYng1Skt1dUhOQ0lmV0VqeHNsY3F1K0w1eU5vT2cvZ2dMc2I3V28ySWduSStoTnRuMytNQUtQWUdaMnVUdWREQkE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NjIwZTczMy9qQld4aHJOMThHWU41dDFrYWt2Rmo5ZHQxQmJWY0lMSWlWNnRaY0RTNzR1RWx0Y2l3L3ZjY3JVblVtVnU0Zk94Kzg3Wnhvc3RLdEFVcXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0Mjg4NTQyCWZpbGU6c29pa2EtbW9ja2luZ2pheV8yLjAuMF9hbWQ2NC5kZWIKbXk5clhyMzlKZDgxMGdvSnZZc2pseDRvSjh5a1J0QjdHQ1lTSnhqZGdrOCt0OTdIcGg2WUNmUDZQMFVyNHBiQktIaUQ1YXJTWUo5Nll1K1BLcGR4QkE9PQo=",
       "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_1.2.1_amd64.deb"
     },
     "windows-x86_64": {
