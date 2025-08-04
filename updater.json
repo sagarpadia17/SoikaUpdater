@@ -1,10 +1,10 @@
 {
-  "version": "1.2.1",
-  "notes": "Changed Voice Call",
+  "version": "2.0.0",
+  "notes": "Added Workflow",
   "platforms": {
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NjIwZTczMy9qQld4aHJOMThHWU41dDFrYWt2Rmo5ZHQxQmJWY0lMSWlWNnRaY0RTNzR1RWx0Y2l3L3ZjY3JVblVtVnU0Zk94Kzg3Wnhvc3RLdEFVcXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0Mjg4NTQyCWZpbGU6c29pa2EtbW9ja2luZ2pheV8yLjAuMF9hbWQ2NC5kZWIKbXk5clhyMzlKZDgxMGdvSnZZc2pseDRvSjh5a1J0QjdHQ1lTSnhqZGdrOCt0OTdIcGg2WUNmUDZQMFVyNHBiQktIaUQ1YXJTWUo5Nll1K1BLcGR4QkE9PQo=",
-      "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_1.2.1_amd64.deb"
+      "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_2.0.0_amd64.deb"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NjRkaGFhdHhvcFpjbVU4MHdTUGxxejdSc2Njd1pCSFduMXFGRkJ0dEMrRDNMRzV4MmxyWHhYS0pRc2JmeGNJVkluSEsvUnoyVHVjVHNaOEFmVTY3d0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0MzAyNjU1CWZpbGU6c29pa2EtbW9ja2luZ2pheV8yLjAuMF94NjQtc2V0dXAuZXhlCnBxTndldzJWdldIaFhIMExZK2UyUEdQTktzU1JwRTF4NUhGdmRyN0N1QVV3MXRaaStaZ1FkOGdBTzl0dVpaWWFEaWtaZmlrNkNEZ0g2Uit5K0lhNEFRPT0K",
