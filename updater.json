@@ -1,17 +1,17 @@
 {
-  "version": "2.0.0",
-  "notes": "Added Workflow",
+  "version": "2.1.0",
+  "notes": "Added Chatflow",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NjIwZTczMy9qQld4aHJOMThHWU41dDFrYWt2Rmo5ZHQxQmJWY0lMSWlWNnRaY0RTNzR1RWx0Y2l3L3ZjY3JVblVtVnU0Zk94Kzg3Wnhvc3RLdEFVcXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0Mjg4NTQyCWZpbGU6c29pa2EtbW9ja2luZ2pheV8yLjAuMF9hbWQ2NC5kZWIKbXk5clhyMzlKZDgxMGdvSnZZc2pseDRvSjh5a1J0QjdHQ1lTSnhqZGdrOCt0OTdIcGg2WUNmUDZQMFVyNHBiQktIaUQ1YXJTWUo5Nll1K1BLcGR4QkE9PQo=",
-      "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_2.0.0_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NjhrQWUydGsybElDSllmTEFON0l4VDlSOFF5ZjRWYkExVDVNRDR4Y292TXpvRUUySTdiT3dNUm5rMEFmTlc1eVR4RnFWY214SUtIU3p4aUR0M2pvSHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0NDA0MDQ1CWZpbGU6c29pa2EtbW9ja2luZ2pheV8yLjEuMF9hbWQ2NC5kZWIKelhGUjFOMFZqN25nK2liTzdlTFJ1UkRiRlRaNkhJWDVyTUdOa0t1VnMzM0hoUlZQZlBRalU2eHFaNkJTWnlaMktUMVhNQm1uSExaQSsyWW5CSzExQXc9PQo=",
+      "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_2.1.0_amd64.deb"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NndLNkxKTHd1UUlkNVU2QXlqVllpYmgrdVpzZFZ2Q0RCVk9sYm0vSTR0ZWc4R0IxVFNYMnkxQVJSYk9vYmJQdFdzaHJDcndlT29ueWtLTkFDRGRneFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0NDAyNTUxCWZpbGU6c29pa2EtbW9ja2luZ2pheV8yLjEuMF94NjRfZW4tVVMubXNpClpURnl2UWgyekNUZFJwdjAyZklyWlFpRTFrTnlXL20zZXlVVmM1eklhZWFESDZIc0VUcnFvV1NOY3NnL0t4K05FbjE1aWVaaXRJbmRpRGdXSXAvUkRRPT0K",
       "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_2.1.0_x64-setup.exe"
     },
      "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2Nnl6VndLeE9oK0FvanFoeUtja1h5R2pEa1ZhNVJoNXJxclBra2JsalN3UzU4dzdNVW1HMEZpTnRuTllPTzZPM2hGRzhER1ZOTm5VTEQ2TlRzUFRsaUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0NDAxOTg4CWZpbGU6c29pa2EtbW9ja2luZ2pheS5hcHAudGFyLmd6CjY4YzhrcndDcEY5Y2E5L00zUFVhTEdJQzZmbUNsVDBJYXdzaDVnc0ZZb1ZRYUZFa2NuWFFqVElrR0tRaDZkWC9sMC9QS2lFR3JpRWNZSmpENzYzMUNRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NitieXRFSGlWUjBIT1AySDY0TUVtT29rMUw1N2F3dFB6YXJ0YmQwYnZqY1JWaU91MnNxN20yQ2p0YmJrb0psckdlTThXdExWYUxsOTg0b0ZiUXkrRGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0NDAzODcwCWZpbGU6c29pa2EtbW9ja2luZ2pheS5hcHAudGFyLmd6CjB2YUMrVWYwNWRzeXk1MnZLaU5kNzl2ek5lTmdsY3ZZNDZNdTdUcXhIK0VYQWc0Z0JkQ0FXazBnMjBkRDJSSnR0Nk50azZ5WmxLWkdKVXMrak42MEJnPT0K",
       "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_2.1.0.app.tar.gz"
     }
   }
