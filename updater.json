@@ -7,12 +7,12 @@
       "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_2.0.0_amd64.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NjRkaGFhdHhvcFpjbVU4MHdTUGxxejdSc2Njd1pCSFduMXFGRkJ0dEMrRDNMRzV4MmxyWHhYS0pRc2JmeGNJVkluSEsvUnoyVHVjVHNaOEFmVTY3d0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0MzAyNjU1CWZpbGU6c29pa2EtbW9ja2luZ2pheV8yLjAuMF94NjQtc2V0dXAuZXhlCnBxTndldzJWdldIaFhIMExZK2UyUEdQTktzU1JwRTF4NUhGdmRyN0N1QVV3MXRaaStaZ1FkOGdBTzl0dVpaWWFEaWtaZmlrNkNEZ0g2Uit5K0lhNEFRPT0K",
-      "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_2.0.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NnpwYTNrQkhVRSt3MUFCUW5rSUw1bU42WktBeDE3YkRRQ2d5eG5vZ3lYU0t5NTVKMmE3alNNdGp6RjhBVFBYTDBsNzIrZVEyNmpQTjA5M05aRHFONkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0NDAxMTYzCWZpbGU6c29pa2EtbW9ja2luZ2pheV8yLjEuMF94NjQtc2V0dXAuZXhlCks5OVpjdmNoeko0MGxwTE9lVkY0MTEyVVJzZFB5UUNlV25CaXZaRGJTU3d5TGR1UFNIZ2JzdElJeHE2NzVMUmJFdWE0OTc3RE9Zb2djQmRvMUhLREJRPT0K",
+      "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_2.1.0_x64-setup.exe"
     },
      "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2Nnk4bkFaUGFHdXRybnpLRDZXZFRnam9vY216bklhbWlETXRzRmJ6b21nS3hTZnNMNHpJRURLQXIwUmMrYy9MYmxMMUtNNnF0OUtCNE5mR1JQQ1JKNkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0MzA1MTUyCWZpbGU6c29pa2EtbW9ja2luZ2pheS5hcHAudGFyLmd6CnFxcHdWbmR0UmdOTDA2aTFmdjdBTFBDRnJITEVPTmJkai9HSjQyUHRUVGlYYzhIdjVmZzVRallsOVdlRE9DQUZWZVNwcFRzbnBiek90VVNNYmMzaENnPT0K",
-      "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_2.0.0.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2Nnl6VndLeE9oK0FvanFoeUtja1h5R2pEa1ZhNVJoNXJxclBra2JsalN3UzU4dzdNVW1HMEZpTnRuTllPTzZPM2hGRzhER1ZOTm5VTEQ2TlRzUFRsaUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0NDAxOTg4CWZpbGU6c29pa2EtbW9ja2luZ2pheS5hcHAudGFyLmd6CjY4YzhrcndDcEY5Y2E5L00zUFVhTEdJQzZmbUNsVDBJYXdzaDVnc0ZZb1ZRYUZFa2NuWFFqVElrR0tRaDZkWC9sMC9QS2lFR3JpRWNZSmpENzYzMUNRPT0K",
+      "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_2.1.0.app.tar.gz"
     }
   }
 }
