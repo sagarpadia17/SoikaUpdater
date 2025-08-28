@@ -1,10 +1,10 @@
 {
   "version": "2.2.0",
-  "notes": "Added Web hooks, Added Monitoring, Changed general design ",
+  "notes": "Added Web hooks, Added Monitoring, Changed general design, Added External Chat ",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NjhrQWUydGsybElDSllmTEFON0l4VDlSOFF5ZjRWYkExVDVNRDR4Y292TXpvRUUySTdiT3dNUm5rMEFmTlc1eVR4RnFWY214SUtIU3p4aUR0M2pvSHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0NDA0MDQ1CWZpbGU6c29pa2EtbW9ja2luZ2pheV8yLjEuMF9hbWQ2NC5kZWIKelhGUjFOMFZqN25nK2liTzdlTFJ1UkRiRlRaNkhJWDVyTUdOa0t1VnMzM0hoUlZQZlBRalU2eHFaNkJTWnlaMktUMVhNQm1uSExaQSsyWW5CSzExQXc9PQo=",
-      "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_2.1.0_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2Ni9hVVhza29PZExXWXFRcEYrdGFxYW00dG80bmR3aUlaMldYT0hJbWRvYXhyK1ZhcEpqSUpJbUdIcXoweWtvakNaNE1IZlp3ZzIwN1hhcERaOUl4U3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MzcyMjM1CWZpbGU6c29pa2EtbW9ja2luZ2pheV8yLjIuMF9hbWQ2NC5kZWIKZEhHS05FKzNnU1ZMK2NucDZ3d0l5K1pobjE3QUFKWFpqZ3FzRTY1S2dLbHZldWRlT1M3WGhrWFJRTVg1ZXFFV05CSFByRjVNbGdMV0RKemtLSUhoQlE9PQo=",
+      "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_2.2.0_amd64.deb"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NjBVSUVLUlJlRjdhVWNGZEo1YjEvK1JGSURqUDBteHE3Y1NyYTU3Q25TTmtHNm9iWHFPRXBCaytVbDd6YXRQUm12aW1CRk5MWVhNQitDUHVMTy8wN1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MzcxNzk1CWZpbGU6c29pa2EtbW9ja2luZ2pheV8yLjIuMF94NjQtc2V0dXAuZXhlCi9MR2xjT0xrcHREVmsvZXRQa2Q5R3lHTloxNjRPWHpMYWJnTzFXZkc3M0JpSXprQ0QzWEVlSkQ0L0RTZjJOWXpLUEFkS2pXM0lzWW1YTXhwa01TVENBPT0K",
