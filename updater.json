@@ -1,14 +1,14 @@
 {
-  "version": "2.2.0",
-  "notes": "Added Web hooks, Added Monitoring, Changed general design, Added External Chat ",
+  "version": "2.3.0",
+  "notes": "Added Network Groups, Added Memory Tab to Soika Settings, Changed UI ",
   "platforms": {
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2Ni9hVVhza29PZExXWXFRcEYrdGFxYW00dG80bmR3aUlaMldYT0hJbWRvYXhyK1ZhcEpqSUpJbUdIcXoweWtvakNaNE1IZlp3ZzIwN1hhcERaOUl4U3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MzcyMjM1CWZpbGU6c29pa2EtbW9ja2luZ2pheV8yLjIuMF9hbWQ2NC5kZWIKZEhHS05FKzNnU1ZMK2NucDZ3d0l5K1pobjE3QUFKWFpqZ3FzRTY1S2dLbHZldWRlT1M3WGhrWFJRTVg1ZXFFV05CSFByRjVNbGdMV0RKemtLSUhoQlE9PQo=",
       "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_2.2.0_amd64.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NjBVSUVLUlJlRjdhVWNGZEo1YjEvK1JGSURqUDBteHE3Y1NyYTU3Q25TTmtHNm9iWHFPRXBCaytVbDd6YXRQUm12aW1CRk5MWVhNQitDUHVMTy8wN1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MzcxNzk1CWZpbGU6c29pa2EtbW9ja2luZ2pheV8yLjIuMF94NjQtc2V0dXAuZXhlCi9MR2xjT0xrcHREVmsvZXRQa2Q5R3lHTloxNjRPWHpMYWJnTzFXZkc3M0JpSXprQ0QzWEVlSkQ0L0RTZjJOWXpLUEFkS2pXM0lzWW1YTXhwa01TVENBPT0K",
-      "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_2.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NnpzWVhaem80NUM3OGFSM256ck05UldJUHNueEYySmRwbndQSXM1d1F6V0ZTNk5IUjd1bWNBclRQODNrSndkMHAvamwwUk9pMGhMNzZNY3VHdXNmL3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NjE5ODU5CWZpbGU6c29pa2EtbW9ja2luZ2pheV8yLjMuMF94NjQtc2V0dXAuZXhlClNoNHdpK01hQTRiTFZQTXNUVm9qYzc4SjdYZTMvSnFaM0RPRTFvWGllR2pkUzZqWDFKVGl3cjRiM2tqMHpONnZlR3NIUlI4dEtla290dXU3dG9tOEJBPT0K",
+      "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_2.3.0_x64-setup.exe"
     },
      "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NitieXRFSGlWUjBIT1AySDY0TUVtT29rMUw1N2F3dFB6YXJ0YmQwYnZqY1JWaU91MnNxN20yQ2p0YmJrb0psckdlTThXdExWYUxsOTg0b0ZiUXkrRGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0NDAzODcwCWZpbGU6c29pa2EtbW9ja2luZ2pheS5hcHAudGFyLmd6CjB2YUMrVWYwNWRzeXk1MnZLaU5kNzl2ek5lTmdsY3ZZNDZNdTdUcXhIK0VYQWc0Z0JkQ0FXazBnMjBkRDJSSnR0Nk50azZ5WmxLWkdKVXMrak42MEJnPT0K",
