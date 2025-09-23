@@ -3,7 +3,7 @@
   "notes": "Added Network Groups, Added Memory Tab to Soika Settings, Changed UI ",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2Ni9hVVhza29PZExXWXFRcEYrdGFxYW00dG80bmR3aUlaMldYT0hJbWRvYXhyK1ZhcEpqSUpJbUdIcXoweWtvakNaNE1IZlp3ZzIwN1hhcERaOUl4U3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MzcyMjM1CWZpbGU6c29pa2EtbW9ja2luZ2pheV8yLjIuMF9hbWQ2NC5kZWIKZEhHS05FKzNnU1ZMK2NucDZ3d0l5K1pobjE3QUFKWFpqZ3FzRTY1S2dLbHZldWRlT1M3WGhrWFJRTVg1ZXFFV05CSFByRjVNbGdMV0RKemtLSUhoQlE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NjgwOSt0Wittb1VyZW5JWTRUa3ZaeWt1WWtZMGdyNmxZdmwyeTNVazNvMEdUQlI0NkdjZjEvNkQyYXF5dlgwQk51OThDRW9xdE4xVnk3bElmbTZZN1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NjQxOTM5CWZpbGU6c29pa2EtbW9ja2luZ2pheV8yLjMuMF9hbWQ2NC5kZWIKbGttTm9tR3Yyd1BFaUlqNndtenN5enRmbkZuMGFmajdTRWhwcy80Ymg3Tk94UXlSWC9GdnN3QzBFd1ExQjJvY0dBY1V4SXlRVXlOMFRDRXpvRFNkRGc9PQo=",
       "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_2.2.0_amd64.deb"
     },
     "windows-x86_64": {
