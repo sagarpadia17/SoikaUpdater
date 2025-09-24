@@ -3,8 +3,8 @@
   "notes": "Added Network Groups, Added Memory Tab to Soika Settings, Changed UI ",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NjgwOSt0Wittb1VyZW5JWTRUa3ZaeWt1WWtZMGdyNmxZdmwyeTNVazNvMEdUQlI0NkdjZjEvNkQyYXF5dlgwQk51OThDRW9xdE4xVnk3bElmbTZZN1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NjQxOTM5CWZpbGU6c29pa2EtbW9ja2luZ2pheV8yLjMuMF9hbWQ2NC5kZWIKbGttTm9tR3Yyd1BFaUlqNndtenN5enRmbkZuMGFmajdTRWhwcy80Ymg3Tk94UXlSWC9GdnN3QzBFd1ExQjJvY0dBY1V4SXlRVXlOMFRDRXpvRFNkRGc9PQo=",
-      "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_2.2.0_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NnhkRklCTVhzY3RQV21IZFMzaGs5TkYwWkpVb0VoUndHUEUvb2lpcERNNklaR3d3VVplN0R3clJGaTViUys0RlhsTXRrckVvVmhRaFFBWGFFcEkxZkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NzIzNzIzCWZpbGU6c29pa2EtbW9ja2luZ2pheV8yLjMuMV9hbWQ2NC5kZWIKZXA2WmZoc1A4dnc4Z1BueE90U0tTSVI3RkFaVU5hWTZNcVJlQ0k2QlVHd005S2oxRnRtYmt2M1poQ084c3ZSUnpWTEFnWVZtWmVWaWh0K2ZFRVRSQ0E9PQo=",
+      "url": "https://github.com/sagarpadia17/SoikaUpdater/raw/main/soika-mockingjay_2.3.1_amd64.deb"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReHhSSUlOYXI2NjBsSU5WaGE3a1ZhcURsN0hoUjZpalYrTnBzaE9KREtWK1V2UEVlczFXMWdOa2thT1poc0ExVFMrUGdMZ3B3a2xxN0lFejRkUS9MakkyV2pnNWtzcEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4NzIzMjExCWZpbGU6c29pa2EtbW9ja2luZ2pheV8yLjMuMV94NjQtc2V0dXAuZXhlCk9uSmE4UGMyU1hSOG1qd2NLSFZQVlVEZGpvVjBsczJ0aTNLL0hhTFYrK2c2WExtVzlwWEZuaTQyQTBIdUpuM3d0TmJzNFBld3JncytlQ2FTSnovTERBPT0K",
